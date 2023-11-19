@@ -5,4 +5,4 @@ EntertainHub is a dynamic news website crafted with WordPress, dedicated to deli
 ## Links
 
 - [Figma Link](https://www.figma.com/file/QsmehL3fvHkmjgRRONJWNJ/EntertainHub?type=design&node-id=0-1&mode=design&t=dHQSGSVpdBpkAJlQ-0)
-- [Wordpres](https://drive.google.com/drive/folders/197LJopQv96f3l_hotGDsYcKeqby7wvmM?usp=sharing)
+- [Wordpress](https://drive.google.com/drive/folders/197LJopQv96f3l_hotGDsYcKeqby7wvmM?usp=sharing)
